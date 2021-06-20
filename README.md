@@ -1,11 +1,11 @@
 <h2 align="center"><b>MENAGE: <a href="https://telegram.dog/mixiologist">GOKU</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/ramadhani892/Goku">
+   <a href="https://github.com/azel-kochoyy/Deadend">
    <br>
    <br>
 </p>
-<h1>RAMA BOT</h1>
+<h1>AZEL BOT</h1>
 <
 
 ## How to setup/deploy.
@@ -27,7 +27,7 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 ```
 
   <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ramadhani892/Goku"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=flat&logo=heroku" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/azel-kochoyy/Deadend"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=flat&logo=heroku" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 </details>  
@@ -170,7 +170,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 For starters click on this button 
 
   <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ramadhani892/Goku"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=flat&logo=heroku">
+   <a href = "https://heroku.com/deploy?template=https://github.com/azel-kochoyy/Deadend"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=flat&logo=heroku">
 </p>
 <br>
 </details>  
