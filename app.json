@@ -1,6 +1,6 @@
 {
       "name": "GOKU BOT",
-      "description": "BOT YANG DIGUNAKAN UNTUK MEMANAGE GROUP ANDA.",
+      "description": "BOT YANG DIGUNAKAN UNTUK MENGATUR GRUP DEAD END.",
       "logo": "https://telegra.ph/file/00131fa3dd81ff230b273.jpg",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "manager",
          "AstrakoBot"
       ],   
-   "repository": "https://github.com/ramadhani892/Goku",
+   "repository": "https://github.com/azel-kochoyy/Deadend",
    "addons": [
       {
          "options": {
